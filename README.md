@@ -7,7 +7,7 @@ So Let Get Started :
 
 ## Git and Github
 
-- [x] Git For Begginer (Competed this Lecture at 10.57 am on 7 July)
-- [ ] Git For Professional
-- [ ] Advanced Git
+- [x] Git For Begginer Freecodecamp (Competed this Lecture at 10.57 am on 7 July)
+- [ ] Git For Professional Freecodecamp
+- [ ] Advanced Git Freecodecamp
 
