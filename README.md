@@ -7,7 +7,7 @@ So Let Get Started :
 
 ## Git and Github
 
-- [ ] Git For Begginer
+- [x] Git For Begginer (Competed this Lecture at 10.57 am on 7 July)
 - [ ] Git For Professional
 - [ ] Advanced Git
 
