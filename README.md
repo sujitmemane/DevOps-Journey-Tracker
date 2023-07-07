@@ -9,6 +9,9 @@ So Let Get Started :
 
 - [x] Git For Begginer Freecodecamp (Competed this Lecture at 10.57 am on 7 July)
 - [x] Github Vishal Rajput Tutorial (Long time back)
-- [x] Git & Github Kunal Kushwaha
+- [x] Git & Github Kunal Kushwaha (Complted this lecture at 7:07 pm on 7 July)
 
+## Operating System
+
+- [ ] Roadmap Runner First Five Tasks on Operating System
 
