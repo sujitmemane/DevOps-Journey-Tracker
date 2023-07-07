@@ -8,6 +8,7 @@ So Let Get Started :
 ## Git and Github
 
 - [x] Git For Begginer Freecodecamp (Competed this Lecture at 10.57 am on 7 July)
+- [x] Github Vishal Rajput Tutorial (Long time back)
 - [ ] Git & Github Kunal Kushwaha
 - [ ] Advanced Git Freecodecamp
 
