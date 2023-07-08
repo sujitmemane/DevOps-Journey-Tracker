@@ -13,6 +13,6 @@ So Let Get Started :
 
 ## Operating System
 
-- [ ]  Roadmap Runner First Four Tasks on Operating System
+- [x]  Roadmap Runner First Four Tasks on Operating System (12:12 PM on 8 July)
 - [ ]  Tutorialpoints Operating System Course
 
